@@ -1,10 +1,10 @@
 # testscript-bd
 
 ## Aula de scripts de testes (automatizados)
----
-### Microsoft Student to Business (S2B) 2018/1 - PUCRS
-### Aula com técnicos da DBServer
-Rafael e Elidiane - 18 de maio de 2018
+
+### Microsoft Student to Business (S2B) 2018/1 - PUCRS</br>
+**Aula com técnicos da DBServer** - Rafael e Elidiane
+</br>18 de maio de 2018
 
 <p>
 </br>
